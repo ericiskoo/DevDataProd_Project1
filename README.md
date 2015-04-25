@@ -1,13 +1,11 @@
-DevDataProd_Project1
+Developing Data Products Course Project (Shiny Application)
 ====================
-
-# Developing Data Products Course Project (Shiny Application)
 
 This course project uses data from the mtcars dataset from the R datasets library. It allows the user to interactively compare the relationship between two variables at a time by displaying a scatterplot, best-fit line, and resulting linear model.
 
 ## Dataset
 
-### Motor Trend Car Road Tests
+#### Motor Trend Car Road Tests
 
 The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
 
